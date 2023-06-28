@@ -661,7 +661,7 @@ header {
   }
 }
 
-@keyframes slideInFromLeft {
+@keyframes slide-in-from-left {
   0% {
     transform: translateX(-100%);
   }
@@ -671,7 +671,7 @@ header {
   }
 }
 
-@keyframes slideInFromRight {
+@keyframes slide-in-from-right {
   0% {
     transform: translateX(100%);
   }
