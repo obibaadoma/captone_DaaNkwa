@@ -6,7 +6,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+  - [🚀 Live Demo](#https://obibaadoma.github.io/captone_DaaNkwa)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -49,7 +49,7 @@ VS Code editor
 Setup
 Clone this repository to your desired folder:
 
-https://obibaadoma.github.io/potfolio-desktop/
+https://obibaadoma.github.io/captone_DaaNkwa/
 
 Install
 Install this project with:
@@ -69,7 +69,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Choose a directory
 - Open a Terminal
-- write: git clone https://github.com/obibaadoma/potfol.git
+- write: git clone https://github.com/obibaadoma/captone_Daankwa.git
 - get into to directory "Portfolio: setup and mobile first"
 - write: npm install
 
