@@ -1,4 +1,4 @@
-<h3><b>Portfolio: Desktop Version</b></h3>
+<h3><b>First Capstone Project from Microverse</b></h3>
 
 # 📗 Table of Contents
 
@@ -23,11 +23,11 @@
 - [📝 License](#license)
 
 
-# 📖 [Potfolio Desktop] <a name="about-project"></a>
+# 📖 [First Capstone Project] <a name="about-project"></a>
 
 Project Description:
 
-The objective of this project is to create a one-page responsive portfolio website that effectively showcases previous personal projects.
+First capstone project from microverse, html, css and javascript to implement the code.
 ## 🛠 Built With <a name="built-with"></a>
 
 - HTML & CSS
