@@ -78,9 +78,7 @@ To get a local copy up and running follow these simple example steps.
 ## 👥 Authors <a name="authors"></a>
 
   **Derek Akrasi Konadu**
-       **David Leiva**
-       **Amaka Lawra Konwea**
-       **Bruno**
+      
 
 ## 👥 Future Features <a name="authors"></a>
 [Javascript will be included for further interactivity]
