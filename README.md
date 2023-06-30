@@ -20,7 +20,7 @@
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 
-- [📝 License](#license)
+- [📝 License](#MIT)
 
 
 # 📖 [First Capstone Project] <a name="about-project"></a>
