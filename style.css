@@ -12,7 +12,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-right: 10%;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .headline {
@@ -47,6 +48,9 @@ body {
   line-height: 50px;
   font-size: 3rem;
   width: 55%;
+  margin-top: 2%;
+  align-items: center;
+  text-align: center;
   animation: 1s ease-out 0s 1 slideInFromLeft;
 }
 
@@ -59,16 +63,18 @@ body {
 
 .into > p {
   line-height: 24px;
-  background-color: #d3d3d3;
+  background-color: #faf4f4;
   border: 4px solid #fffcfc;
+  align-items: center;
   padding: 5%;
-  width: 65%;
+  width: 85%;
+  margin-top: 2%;
   animation: 1s ease-out 0s 1 slideInFromRight;
 }
 
 .celebration {
   margin-top: 10%;
-  width: 60%;
+  width: 80%;
 }
 
 .first-header {
@@ -86,6 +92,7 @@ body {
 
 .nav-link {
   color: #848484;
+  font-size: 15px;
 }
 
 .hamburger {
@@ -517,6 +524,7 @@ header {
 
   .wrapper {
     padding: 0 15% 10%;
+    height: 100vh;
   }
 
   .program-cards {
