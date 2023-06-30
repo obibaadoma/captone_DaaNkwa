@@ -160,7 +160,7 @@ body {
   width: 500px;
   height: 20rem;
   padding: 2%;
-  background-color: #3c3f4678;
+  background-color: #41464b !important;
   border: 0;
   align-items: center;
 }
@@ -174,7 +174,7 @@ body {
 }
 
 .about-card {
-  background-color: #ffff;
+  background-color: #41464b;
   position: relative;
   padding: 0;
 }
@@ -373,7 +373,6 @@ header {
 .left-navigation-backgound {
   z-index: -100;
   position: absolute;
-  filter: blur(4px);
 }
 
 .campaign {
@@ -656,7 +655,8 @@ header {
   .nav-div {
     padding: 0 10%;
     width: 100%;
-    background-color: transparent;
+
+    /* background-color: transparent; */
   }
 
   .wrapper {
