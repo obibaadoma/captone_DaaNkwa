@@ -27,7 +27,7 @@
 
 Project Description:
 
-First capstone project from microverse, html, css and javascript to implement the code.
+This website represents a conglomerate of businesses, featuring multiple pages and dedicated sessions for each aspect of their operations. As my inaugural capstone project with Microverse, I developed this platform using HTML, CSS, and JavaScript. Its comprehensive capabilities encompass customer activity tracking, order management, and task assignment to individual employees. The result is a seamless and intuitive user experience, making it a significant achievement in my web development journey.
 ## 🛠 Built With <a name="built-with"></a>
 
 - HTML & CSS
